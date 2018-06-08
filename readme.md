@@ -2,9 +2,13 @@
 
 Just a little **crack** with simple command-line without any virus or spamming. Like when you're search on Google by `windows 10 crack`, of course all results is not right and spam for sure.
 
+## Note
+
+**Remember**, it's a pirate! Only bad guy using this way. Be good guy and support Microsoft by purchase from their [store](https://www.microsoft.com/en-us/store/b/windows). Also you will got major feature from Microsoft like sync data, system update, supporter and other online service. That way must be easier to install the Windows.
+
 ## Usage
 
-Simply, run a `run.cmd` then use those data or from your own.
+Simply, run a `run.cmd` with **Run as administrator** then use those key and server.
 
 - Key ([What is N version?](https://support.microsoft.com/en-us/help/11529/what-is-a-windows-7-n-edition)):
 
@@ -73,5 +77,4 @@ winkms.tk
 
 ## Credit
 
-All thanks to [CHEF-KOCH](https://github.com/CHEF-KOCH) by guide [here](https://gist.github.com/CHEF-KOCH/1273041f0eafd20f2219).
-****
+All thanks to [CHEF-KOCH](https://github.com/CHEF-KOCH) from a guide [here](https://gist.github.com/CHEF-KOCH/1273041f0eafd20f2219).
